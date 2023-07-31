@@ -45,7 +45,7 @@ export default function Hero() {
               data-aos="zoom-y-out"
             >
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-                ERC20 Token
+                PEPEBOT
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -54,8 +54,8 @@ export default function Hero() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Our landing page template works on all devices, so you only have
-                to set it up once, and get beautiful results forever.
+                Experience seamless and lightning-fast trading on the go with
+                our free-to-use Telegram bot.
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
